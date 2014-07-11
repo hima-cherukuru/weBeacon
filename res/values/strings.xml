@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OfficeAssist</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="list_of_features">
+        <item>Conference room</item>
+        <item>Flex Cube</item>
+        <item>Zip room</item>
+        <item>Parking</item>
+    </string-array>
+
+    <string name="title_activity_dialog">Reservation</string>
+    <string name="title_activity_splash_screen">OfficeAssist</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">Splash Screen</string>
+    <string name="Office_Assist">Office Assist</string>
+
+</resources>
