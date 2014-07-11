@@ -1,0 +1,4 @@
+weBeacon
+========
+
+weBeacon Oracle Hackathon
